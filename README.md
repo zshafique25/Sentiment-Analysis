@@ -45,9 +45,9 @@ git clone https://github.com/zshafique25/Sentiment-Analysis.git
 The dataset used in this notebook contains the following columns:
 
 - `ID`: A unique identifier for each tweet.
-- `Topic`: The topic of the tweet (in this case, "Nvidia").
+- `Topic`: The topic of the tweet (in this case, there are different companies Like Amazon, Nividia, Microsoft , Verizon etc).
 - `Sentiment`: The sentiment label (Positive, Negative, Neutral).
 - `Tweet`: The actual text of the tweet.
 
 ## Results
-The sentiment analysis results include predictions for each tweet's sentiment, which can be used to understand the general perception of Nvidia on social media.
+The sentiment analysis results include predictions for each tweet's sentiment, which can be used to understand the general perception of those companies on social media.
